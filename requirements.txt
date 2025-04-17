@@ -1,0 +1,5 @@
+pygame – for rendering the environment and drone simulation.
+
+torch (PyTorch) – to define and train the Deep Q-Network (DQN).
+
+numpy – for efficient grid representation and array manipulation.
